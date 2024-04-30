@@ -21,9 +21,9 @@
 <b>Video Detection:</b>
 
 <b>Upload a video:</b> Choose a video file containing scenes with people and upload it to the system.<br>
-<b>Detect face and eye:</b> Click on the "Download Processed Video" button to apply the face and eye detection algorithm to the video.<br>
+<b>Download video:</b> Download the detected video by clicking on the "Download Processed Video" button.<br>
 <b>View detected results:</b> The system will process the video and generate a new video with detected faces and eyes highlighted.<br>
-<b>Download video:</b> Download the detected video by clicking on the "Download" button.<br>
+
 
 ![image](https://github.com/parimi46/Face-And-Eye-Detection/assets/103947306/a7a80641-aaad-4510-bbcc-e97ca65a4f1e)
 
